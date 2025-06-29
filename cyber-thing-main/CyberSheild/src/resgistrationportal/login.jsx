@@ -90,7 +90,7 @@ const CyberpunkAuthPortal = () => {
                                 onChange={(e) => setUsername(e.target.value)}
                                 required
                                 className="cyber-input"
-                                placeholder="Enter admin"
+                                placeholder="Enter Username"
                             />
                         </div>
 
@@ -103,7 +103,7 @@ const CyberpunkAuthPortal = () => {
                                 onChange={(e) => setPassword(e.target.value)}
                                 required
                                 className="cyber-input"
-                                placeholder="Enter admin123"
+                                placeholder="Enter Password"
                             />
                         </div>
 
