@@ -25,7 +25,7 @@ const Dashboard = () => {
     });
 
     const threatTypes = {
-        'DDoS': { color: '#FF2A2A', desc: 'Distributed Denial of Service' },
+        'DDOS': { color: '#FF2A2A', desc: 'Distributed Denial of Service' },
         'MALWARE': { color: '#FF7A2A', desc: 'Malicious Software' },
         'PHISHING': { color: '#13FE5D', desc: 'Phishing Attempt' },
         'ZERO-DAY': { color: '#2A7AFF', desc: 'Zero-Day Exploit' },
