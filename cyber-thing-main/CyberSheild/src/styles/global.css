@@ -1,0 +1,9 @@
+:root {
+  --neon-blue: #0ff0fc;
+  --neon-purple: #bc13fe;
+  --neon-green: #13fe5d;
+  --dark-bg: #0a0a1a;
+  --darker-bg: #050510;
+  --card-bg: #12122a;
+  font-family: 'Roboto', sans-serif;
+}
